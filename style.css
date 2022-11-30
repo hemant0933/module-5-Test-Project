@@ -100,15 +100,14 @@ button{
     color: white;
     transition: 0.3sec;
 }
-.fade-text{
-    animation: fadeIn 2s;
+#arrowicon{
+   text-align: center;
+   border: 1px solid black;
 }
-@keyframes{
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-}
-
-.footer{
+.horizontal-bar{
     border-bottom: 5px solid black;
-    margin-top: 50px;
+    margin-top: 25px;
+}
+.white-horizontal-bar{
+    border-bottom: 1px solid white;
 }
