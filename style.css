@@ -160,7 +160,7 @@ div>.col{
 .col:hover{
     background-color: #010101;
     animation: 0.3s ;
-    color: white;
+    color: white !important;
 }
 
 .horizontal-bar{
