@@ -145,14 +145,12 @@ div>.col{
     font-style: normal;
     font-weight: 400;
     font-size: 50px;
-    color: black;
     line-height: 61px;
 }
 
 .card-text{
     font-family: 'Inter';
     font-style: normal;
-    color: black;
     font-weight: 300;
     font-size: 24px;
     line-height: 29px;
@@ -171,7 +169,7 @@ div>.col{
     border-bottom: 10px solid black;
 }
 
-/* contact us section =========*/
+/* ====================================== contact us section ============================================== */
 .heading4{
     margin-top: 50px;
     display: flex;
